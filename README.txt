@@ -38,7 +38,7 @@ Matplotlib  - see https://matplotlib.org/contents.html for more information.
 Issues
 ------------------------------
 One may see error regarding thread breakdown.
-
+Shoot a mail for any issue...
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
 email- sumanya.sahoo@gmail.com
